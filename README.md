@@ -5,7 +5,7 @@ Something made with flask
 TDB
 
 ## Usage
-Write on it, dude
+
 ```bash
 python app.py
 ```
